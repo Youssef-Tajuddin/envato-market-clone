@@ -1,0 +1,203 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.main-header {
+    text-align: center;
+    padding: 100px 0;
+}
+
+.main-header h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.main-header p {
+    font-size: 1.2rem;
+    margin: 20px 0;
+}
+
+.services-section {
+    padding: 50px 0;
+}
+
+.service-box {
+    background-color: #1c1c1c;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.service-box h4 {
+    margin-top: 10px;
+}
+
+.btn-custom {
+    background-color: #00bfa5;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.navbar-custom {
+    background-color: #000;
+}
+
+.navbar-brand img {
+    height: 30px;
+}
+
+.navbar-nav .nav-link {
+    color: #fff !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #00ffcc !important;
+}
+
+.btn-buy-now {
+    background-color: #8cc63f;
+    color: #fff;
+}
+
+/*  */
+.bg-color-1 {
+    background-color: #0d0d0d;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin-top: -10%;
+}
+
+.highlight-text {
+    color: aquamarine;
+}
+
+line {
+    width: 50px;
+    height: 2px;
+    background-color: #00d88d !important;
+    margin: 15px 0;
+}
+
+.image-container {
+    position: relative;
+}
+
+.image-container img {
+    opacity: 0.9;
+    /* mix-blend-mode: multiply; */
+}
+
+.btn-custom {
+    background-color: #00d88d !important;
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    padding: 10px 25px;
+    font-size: 16px;
+}
+
+.btn-custom:hover {
+    background-color: #00b676a1;
+}
+
+.icon-circle {
+    width: 50px;
+    height: 50px;
+    background-color: aquamarine !important;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.icon-circle:hover {
+    color: #4d6e63 !important;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.aquamarine-color {
+    color: aquamarine !important;
+}
+
+.up-header-logo {
+    background-color: hsla(0, 0%, 0%, 0.834) !important;
+    width: 100%;
+}
+
+#navBar {
+    color: hsla(0, 0%, 0%, 0.834) !important;
+}
+
+.text-bg-aquamarine {
+    background-color: #8cc63f !important;
+}
+
+.side-portrait {
+    background: url(imges/side-view-portrait-of-a-woman-with-make-up-CTUMAUJ.jpg);
+    width: 100%;
+    height: auto;
+    /* background-repeat: repeat; */
+}
+
+.grayscale-img {
+    filter: grayscale(100%);
+    transition: filter 0.3s ease-in-out;
+}
+
+.grayscale-img:hover {
+    filter: grayscale(0%);
+    cursor: pointer;
+}
+
+.mr-10 {
+    margin-top: 12.6rem !important;
+}
+
+.testimonials-bg {
+    background-image: url(imges/adadad.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.btn-aquamarine {
+    background: aquamarine !important;
+}
+
+.form-bg {
+    background-color: #00000075;
+    color: #fff;
+}
+
+.contact-form {
+    border: 1px solid #00ffcc;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.contact-form input,
+.contact-form textarea,
+.contact-form button {
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid #00ffcc;
+}
+
+.contact-form button {
+    background-color: #00ffcc;
+    color: #000;
+}
+
+.contact-details {
+    margin-top: 20px;
+}
+
+.contact-details .icon {
+    color: #00ffcc;
+    margin-right: 10px;
+}
